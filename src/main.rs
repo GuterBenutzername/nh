@@ -2,6 +2,7 @@ mod clean;
 mod commands;
 mod completion;
 mod home;
+mod installables;
 mod interface;
 mod json;
 mod logging;
